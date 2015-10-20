@@ -9,6 +9,7 @@ X <- c(dim(data))
 X[1]
 dim(data1)
 
+
 library(dplyr)
 library(data.table)
 datat<- tbl_df(data)
